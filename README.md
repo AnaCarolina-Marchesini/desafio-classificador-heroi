@@ -43,6 +43,3 @@ Ao final, deve ser exibida a seguinte mensagem:
 
 Este projeto foi desenvolvido durante o **Bootcamp DIO + Santander 2025 - Fundamentos de Lógica de Programação**.
 
----
-
-Sinta-se à vontade para melhorar e evoluir este desafio! 🌟
